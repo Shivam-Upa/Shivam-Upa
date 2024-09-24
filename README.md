@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-upa&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-upa" /> </p>
 
-<p align="left"> <a href="https://x.com/Shivam_Twtss" target="blank"><img src="https://img.shields.io/twitter/follow/shivamu35294220?logo=twitter&style=for-the-badge" alt="shivamu35294220" /></a> </p>
+<p align="left"> <a href="https://x.com/Shivam_Twtss" target="blank"><img src="https://img.shields.io/twitter/follow/Shivam_Twtss?logo=twitter&style=for-the-badge" alt="Shivam_Twtss" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://shivamu.netlify.app/](https://shivamu.netlify.app/)
 
