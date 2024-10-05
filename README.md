@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Upadhyay</h1>
 <h3 align="center">"Enthusiastic and motivated with a strong foundation in machine learning, Python, C++, and web development, eager to contribute to innovative projects and learn from experienced teams."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-upa&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-upa" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-upa&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-upa" /> </p> -->
 
 <p align="left"> <a href="https://x.com/Shivam_Twtss" target="blank"><img src="https://img.shields.io/twitter/follow/Shivam_Twtss?logo=twitter&style=for-the-badge" alt="Shivam_Twtss" /></a> </p>
 
